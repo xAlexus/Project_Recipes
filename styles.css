@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(95deg, #FF0EAE, #DDEFBB);
+    background: linear-gradient(180deg, #c79817, #DDEFBB);
     height: 100vh;
 }
 
@@ -16,20 +16,32 @@ ul {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: #333;
-    margin-bottom: 1em;
-    margin-top: 1em;
-}
-
-
-ol {
-    font-size: small;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    margin-top: 5em;
     margin-left: 0;
     margin-right: 0;
 }
 
+
+ol {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+
+}
+
 a {
-    color: aqua;
+    color: rgba(43, 15, 107, 0.884);
     text-decoration: none;
+    
+}
+
+img {
+    
+    height: 250px;
+    align-items: center;
+    ;
+    
 }
